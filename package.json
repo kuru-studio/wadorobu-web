@@ -1,4 +1,17 @@
 {
+  "name": "wadorobu-web",
+  "version": "0.0.1",
+  "description": "Game wardrobe (Web)",
+  "main": "index.js",
+  "repository": "git@github.com:kuru-studio/wadorobu-web.git",
+  "author": "BosEriko <bos.eriko@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
     "next": "^12.1.5",
     "react": "^18.1.0",
